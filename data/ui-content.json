@@ -1,0 +1,181 @@
+{
+  "hero": [
+    {
+      "placement": "hero",
+      "title": "Lithium Chargers",
+      "subtitle": "54.6V · 67.2V · NMC ready",
+      "badge": "Just In",
+      "href": "/categories/lithium-battery-chargers",
+      "image": "https://cdn.store.link/uploads/elyf/lithium-battery-chargers-image.jpg?versionId=iWs8W3gmwGwUhsrVnqulDt8vFHVcNArX",
+      "imageAlt": "Lithium battery chargers for EV scooters",
+      "order": 1
+    },
+    {
+      "placement": "hero",
+      "title": "Lead Acid Range",
+      "subtitle": "Waterproof EV chargers",
+      "href": "/categories/lead-acid-ev-chargers",
+      "image": "https://cdn.store.link/uploads/elyf/lead-acid-ev-chargers-image.jpg?versionId=oFQ6mjwEdZyaMP_5bp8dWvBalIvDXRh0",
+      "imageAlt": "Lead acid EV chargers",
+      "accent": true,
+      "order": 2
+    },
+    {
+      "placement": "hero",
+      "title": "Controllers",
+      "subtitle": "DC-DC convertors & more",
+      "href": "/categories/ev-controllers-dc-dc-convertors",
+      "image": "/logo.png",
+      "imageAlt": "EV controllers and DC-DC convertors",
+      "order": 3
+    },
+    {
+      "placement": "hero",
+      "title": "Motors",
+      "subtitle": "Drive systems & accessories",
+      "href": "/categories/ev-motors-motor-accessories",
+      "image": "/logo.png",
+      "imageAlt": "EV motors and motor accessories",
+      "order": 4
+    },
+    {
+      "placement": "hero",
+      "title": "BMS & Cells",
+      "subtitle": "Battery management essentials",
+      "href": "/categories/ev-scooter-bms",
+      "image": "/logo.png",
+      "imageAlt": "EV scooter BMS",
+      "order": 5
+    },
+    {
+      "placement": "hero",
+      "title": "Shop All",
+      "subtitle": "Batteries, chargers, spares",
+      "href": "/products",
+      "image": "/logo.png",
+      "imageAlt": "Prime Fast EV catalog",
+      "order": 6
+    }
+  ],
+  "promo": {
+    "placement": "promo",
+    "title": "Fleet Ready",
+    "subtitle": "Voltage-matched chargers and battery spares for every EV scooter",
+    "code": "EVFAST",
+    "cta": "Shop Chargers",
+    "href": "/products",
+    "image": "https://cdn.store.link/uploads/elyf/lithium-battery-chargers-image.jpg?versionId=iWs8W3gmwGwUhsrVnqulDt8vFHVcNArX",
+    "imageAlt": "Lithium EV chargers",
+    "order": 1
+  },
+  "deal": {
+    "sides": [
+      {
+        "placement": "deal-side",
+        "title": "Lithium",
+        "href": "/categories/lithium-battery-chargers",
+        "image": "https://cdn.store.link/uploads/elyf/lithium-battery-chargers-image.jpg?versionId=iWs8W3gmwGwUhsrVnqulDt8vFHVcNArX",
+        "hoverImage": "https://cdn.store.link/uploads/elyf/lead-acid-ev-chargers-image.jpg?versionId=oFQ6mjwEdZyaMP_5bp8dWvBalIvDXRh0",
+        "imageAlt": "Lithium battery chargers",
+        "order": 1
+      },
+      {
+        "placement": "deal-side",
+        "title": "Lead Acid",
+        "href": "/categories/lead-acid-ev-chargers",
+        "image": "https://cdn.store.link/uploads/elyf/lead-acid-ev-chargers-image.jpg?versionId=oFQ6mjwEdZyaMP_5bp8dWvBalIvDXRh0",
+        "hoverImage": "https://cdn.store.link/uploads/elyf/lithium-battery-chargers-image.jpg?versionId=iWs8W3gmwGwUhsrVnqulDt8vFHVcNArX",
+        "imageAlt": "Lead acid EV chargers",
+        "order": 2
+      }
+    ],
+    "center": {
+      "placement": "deal-center",
+      "title": "Right voltage. Right amp.",
+      "subtitle": "Filter by Voltage, Capacity, Brand, and Battery Type to match your scooter.",
+      "badge": "The EV edit",
+      "cta": "Shop batteries",
+      "href": "/products",
+      "order": 1
+    }
+  },
+  "testimonials": [
+    {
+      "id": "t1",
+      "name": "Priya Sharma",
+      "role": "Fleet Owner",
+      "avatar": "https://i.pravatar.cc/150?img=47",
+      "rating": 5,
+      "text": "Voltage labels are clear and the 67.2V chargers matched our NMC packs perfectly. Packing was solid for courier.",
+      "location": "Mumbai"
+    },
+    {
+      "id": "t2",
+      "name": "Rahul Verma",
+      "role": "Service Centre",
+      "avatar": "https://i.pravatar.cc/150?img=12",
+      "rating": 5,
+      "text": "Easy to filter by amp and battery type. Lead acid waterproof chargers are now our default reorder.",
+      "location": "Bangalore"
+    },
+    {
+      "id": "t3",
+      "name": "Ananya Iyer",
+      "role": "EV Rider",
+      "avatar": "https://i.pravatar.cc/150?img=32",
+      "rating": 5,
+      "text": "Found the exact 54.6V 6A charger for my scooter. Honest pricing and fast dispatch.",
+      "location": "Chennai"
+    },
+    {
+      "id": "t4",
+      "name": "Arjun Mehta",
+      "role": "Workshop",
+      "avatar": "https://i.pravatar.cc/150?img=15",
+      "rating": 4,
+      "text": "Good range of controllers and BMS parts. Would love more warranty badges on every listing.",
+      "location": "Delhi"
+    },
+    {
+      "id": "t5",
+      "name": "Kavya Reddy",
+      "role": "Dealer",
+      "avatar": "https://i.pravatar.cc/150?img=45",
+      "rating": 5,
+      "text": "Clean catalog for EV spares. Brand filters (IMP, GRAPHY, SUN6) save a lot of time.",
+      "location": "Hyderabad"
+    }
+  ],
+  "articles": [
+    {
+      "id": "a1",
+      "title": "How to pick the right EV charger voltage",
+      "slug": "how-to-pick-ev-charger-voltage",
+      "excerpt": "Match charger voltage and amp rating to your pack chemistry before you order.",
+      "body": "Start with the pack label: NMC and lead-acid packs use different charge voltages. A 54.6V lithium charger is not a drop-in for a 60V lead-acid pack.\n\nCheck the amp rating next. Higher amps charge faster but must stay within the pack and BMS limits. When two listings look close, compare voltage, amp, waterproofing, and brand on the product page.\n\nIf you are unsure, open both product pages and confirm the specs in the title and description before adding to cart.",
+      "focusKeyword": "EV charger voltage",
+      "links": [
+        { "label": "Lithium chargers", "href": "/categories/lithium-battery-chargers" },
+        { "label": "Lead acid chargers", "href": "/categories/lead-acid-ev-chargers" },
+        { "label": "All products", "href": "/products" }
+      ],
+      "published": true,
+      "publishedAt": "2025-01-10T00:00:00.000Z"
+    },
+    {
+      "id": "a2",
+      "title": "Shipping, delivery, and returns",
+      "slug": "shipping-and-returns",
+      "excerpt": "What to expect after you place a Prime Fast EV order.",
+      "body": "After checkout, the order page is the record of what you bought. Delivery timing and shipping areas are on the shipping page.\n\nIf a size or part needs to change, use the returns page before you send anything back. Questions about a specific order can go through the contact page.",
+      "focusKeyword": "shipping and returns",
+      "links": [
+        { "label": "Shipping", "href": "/shipping" },
+        { "label": "Returns", "href": "/returns" },
+        { "label": "Contact", "href": "/contact" }
+      ],
+      "published": true,
+      "publishedAt": "2025-01-12T00:00:00.000Z"
+    }
+  ]
+}
