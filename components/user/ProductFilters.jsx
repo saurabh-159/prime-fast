@@ -419,7 +419,10 @@ export default function ProductFilters({ pathname, filters, facets, total, showC
         {children}
       </div>
 
-      <div className={`fixed inset-0 z-[60] lg:hidden ${open ? '' : 'pointer-events-none'}`} aria-hidden={!open}>
+      <div
+        className={`fixed inset-0 z-[60] overflow-hidden lg:hidden ${open ? '' : 'pointer-events-none'}`}
+        aria-hidden={!open}
+      >
         <button
           type="button"
           aria-label="Close filters"

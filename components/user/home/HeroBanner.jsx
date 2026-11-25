@@ -115,7 +115,11 @@ export default function HeroBanner({ slides = [] }) {
   if (!slides.length) return null;
 
   return (
-    <section className="relative -mx-4 mb-12 w-[calc(100%+2rem)]" aria-roledescription="carousel" aria-label="Featured collections">
+    <section
+      className="relative -mx-4 mb-12 sm:-mx-6 lg:-mx-8"
+      aria-roledescription="carousel"
+      aria-label="Featured collections"
+    >
       <div
         className="overflow-hidden"
         onMouseEnter={() => setPaused(true)}

@@ -41,7 +41,10 @@ export default function CartDrawer() {
   const subtotal = cartItems.reduce((sum, item) => sum + item.price * item.qty, 0);
 
   return (
-    <div className={`fixed inset-0 z-[70] ${cartOpen ? '' : 'pointer-events-none'}`} aria-hidden={!cartOpen}>
+    <div
+      className={`fixed inset-0 z-[70] overflow-hidden ${cartOpen ? '' : 'pointer-events-none'}`}
+      aria-hidden={!cartOpen}
+    >
       <button
         type="button"
         aria-label="Close cart overlay"

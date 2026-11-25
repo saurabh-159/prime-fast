@@ -472,7 +472,7 @@ export default function Navbar() {
 
       {/* Mobile drawer — keep mounted so open/close can animate */}
       <div
-        className={`fixed inset-0 z-50 lg:hidden ${menuOpen ? '' : 'pointer-events-none'}`}
+        className={`fixed inset-0 z-50 overflow-hidden lg:hidden ${menuOpen ? '' : 'pointer-events-none'}`}
         aria-hidden={!menuOpen}
       >
         <button

@@ -39,6 +39,12 @@
   }
 }
 
+html,
+body {
+  overflow-x: clip;
+  max-width: 100%;
+}
+
 body {
   background: #ffffff;
   color: #18181b;

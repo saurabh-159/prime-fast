@@ -134,7 +134,7 @@ export default function CategoryShowcase({ categories = [] }) {
                   href={`/categories/${category.slug}`}
                   aria-hidden={copy === 1 || undefined}
                   tabIndex={copy === 1 ? -1 : undefined}
-                  className="group relative aspect-[3/4] w-[calc((100vw-3rem)/2)] shrink-0 overflow-hidden rounded-[1.25rem] shadow-[0_10px_28px_-18px_rgba(0,0,0,0.45)] ring-1 ring-black/5 transition duration-300 hover:-translate-y-1 hover:shadow-[0_18px_36px_-16px_rgba(0,0,0,0.4)] sm:w-[284px]"
+                  className="group relative aspect-[3/4] w-[calc((100%-1rem)/2)] shrink-0 overflow-hidden rounded-[1.25rem] shadow-[0_10px_28px_-18px_rgba(0,0,0,0.45)] ring-1 ring-black/5 transition duration-300 hover:-translate-y-1 hover:shadow-[0_18px_36px_-16px_rgba(0,0,0,0.4)] sm:w-[284px]"
                   style={contain ? { backgroundColor: category.imageBg || '#e8e0d6' } : undefined}
                 >
                   <RemoteImg
