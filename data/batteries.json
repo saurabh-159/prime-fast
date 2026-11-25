@@ -1,0 +1,240 @@
+{
+  "store": "Prime Fast EV",
+  "source": "battery_schema_sample",
+  "share_link": "",
+  "note": "Replace this file with your full batteries.json export. voltage / Ah / batteryType / brand / warranty are extracted from product names when missing as fields.",
+  "categories": [
+    {
+      "name": "Lithium Battery Chargers",
+      "slug": "lithium-battery-chargers",
+      "url": "https://store.elyfevspare.com/category/lithium-battery-chargers",
+      "image": "https://cdn.store.link/uploads/elyf/lithium-battery-chargers-image.jpg?versionId=iWs8W3gmwGwUhsrVnqulDt8vFHVcNArX",
+      "products": [
+        {
+          "name": "LCD 67.2V 6A Lithium EV Charger for NMC Battery (with Display) (45a7)",
+          "sku": "45a7",
+          "price": "₹1,198",
+          "image": "https://lh3.googleusercontent.com/d/1D2sqpYrbnqrCZcm6Wa-iazguKuUvzBxI",
+          "url": "https://store.elyfevspare.com/product/lcd-672v-6a-lithium-ev-charger-for-nmc-battery-with-display-45a7/"
+        },
+        {
+          "name": "EV CHARGER [IMP 67.2V 8A] (0118)",
+          "sku": "0118",
+          "price": "₹1,198",
+          "image": "https://lh3.googleusercontent.com/d/1XLJClKzq4JieiQe5Evt-UMG-bZyvkXkc",
+          "url": "https://store.elyfevspare.com/product/ev-charger-imp-672v-8a-0118/"
+        },
+        {
+          "name": "EV CHARGER [AL 69.4V 6A] ALUM (09c4)",
+          "sku": "09c4",
+          "price": "₹948",
+          "image": "https://lh3.googleusercontent.com/d/10LkNqQaHuM6yd22aAzNF9FBteOQ-FMP9",
+          "url": "https://store.elyfevspare.com/product/ev-charger-al-694v-6a-alum-09c4/"
+        },
+        {
+          "name": "IMP 54.6V 6A Lithium EV Charger for NMC Battery (0267)",
+          "sku": "0267",
+          "price": "₹1,498",
+          "image": "https://lh3.googleusercontent.com/d/1rCiZ_eoL5wsbfauRkI-rFLdE6U--3r-T",
+          "url": "https://store.elyfevspare.com/product/imp-546v-6a-lithium-ev-charger-for-nmc-battery-0267/"
+        },
+        {
+          "name": "AL 54.6V 6A Lithium EV Charger for NMC Battery (09c5)",
+          "sku": "09c5",
+          "price": "₹948",
+          "image": "https://lh3.googleusercontent.com/d/1DxcySYIEZjfcX7oHlLW2BAP9G9N7VtIk",
+          "url": "https://store.elyfevspare.com/product/al-546v-6a-lithium-ev-charger-for-nmc-battery-09c5/"
+        },
+        {
+          "name": "EV CHARGER [LCD 54.6V 6A] PLS  (010f)",
+          "sku": "010f",
+          "price": "₹1,298",
+          "image": "https://lh3.googleusercontent.com/d/1WWy8XpzUfsQ-GOkuPjv9-5xI3tnGXMLQ",
+          "url": "https://store.elyfevspare.com/product/ev-charger-lcd-546v-6a-pls-010f/"
+        }
+      ]
+    },
+    {
+      "name": "Lead Acid EV Chargers",
+      "slug": "lead-acid-ev-chargers",
+      "url": "https://store.elyfevspare.com/category/lead-acid-ev-chargers",
+      "image": "https://cdn.store.link/uploads/elyf/lead-acid-ev-chargers-image.jpg?versionId=oFQ6mjwEdZyaMP_5bp8dWvBalIvDXRh0",
+      "products": [
+        {
+          "name": "Charger Tester for EV Charger (1c1e)",
+          "sku": "1c1e",
+          "price": "₹248",
+          "image": "https://lh3.googleusercontent.com/d/1Dkzfvzd5gw4SkL2dWUQnFx6vmmieupB3",
+          "url": "https://store.elyfevspare.com/product/charger-tester-for-ev-charger-1c1e/"
+        },
+        {
+          "name": "SUN6 60V 3A Lead Acid EV Charger (Waterproof) (324a)",
+          "sku": "324a",
+          "price": "₹479.90",
+          "image": "https://lh3.googleusercontent.com/d/1LNdXHDqi3gtPRiKE25fN5x8Mb7nQe1-k",
+          "url": "https://store.elyfevspare.com/product/sun6-60v-3a-lead-acid-ev-charger-waterproof-324a/"
+        },
+        {
+          "name": "QT7 Pulse 60V 3A Lead Acid EV Charger (0dd1)",
+          "sku": "0dd1",
+          "price": "₹498",
+          "image": "https://lh3.googleusercontent.com/d/1kP2-WyCz1eU8NMeFF4v-H7FTqxv76qFz",
+          "url": "https://store.elyfevspare.com/product/qt7-pulse-60v-3a-lead-acid-ev-charger-0dd1/"
+        },
+        {
+          "name": "EV CHARGER [GRAPHY 72V 4A] (2ae3)",
+          "sku": "2ae3",
+          "price": "₹650",
+          "image": "https://lh3.googleusercontent.com/d/1Zc2H_dJ3D09t4PEgnPtAcj8pLALaZp_f",
+          "url": "https://store.elyfevspare.com/product/ev-charger-graphy-72v-4a-2ae3/"
+        },
+        {
+          "name": "EV CHARGER [GRAPHY 72V 5A] (0117)",
+          "sku": "0117",
+          "price": "₹748",
+          "image": "https://lh3.googleusercontent.com/d/1qrT3XojfouiJ8am6CBAun5HJG-ydk8N_",
+          "url": "https://store.elyfevspare.com/product/ev-charger-graphy-72v-5a-0117/"
+        },
+        {
+          "name": "LEAD ACID BATTERY for EV Scooter (self courier only) (4e89)",
+          "sku": "4e89",
+          "price": "₹2,375",
+          "image": "https://lh3.googleusercontent.com/d/1bzOONZsJoZq8QZD5uL-YoKksWmI2AfhO",
+          "url": "https://store.elyfevspare.com/product/lead-acid-battery-for-ev-scooter-self-courier-only-4e89/"
+        }
+      ]
+    },
+    {
+      "name": "EV Controllers & DC-DC Convertors",
+      "slug": "ev-controllers-dc-dc-convertors",
+      "url": "",
+      "image": "",
+      "products": [
+        {
+          "name": "Dummy 48V 30A Sine Wave EV Controller (d-ctrl-01)",
+          "sku": "d-ctrl-01",
+          "price": "₹2,499",
+          "image": "https://lh3.googleusercontent.com/d/1XLJClKzq4JieiQe5Evt-UMG-bZyvkXkc",
+          "url": ""
+        },
+        {
+          "name": "Dummy 60V DC-DC Convertor 10A (d-ctrl-02)",
+          "sku": "d-ctrl-02",
+          "price": "₹899",
+          "image": "https://lh3.googleusercontent.com/d/10LkNqQaHuM6yd22aAzNF9FBteOQ-FMP9",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "name": "EV Motors & Motor Accessories",
+      "slug": "ev-motors-motor-accessories",
+      "url": "",
+      "image": "",
+      "products": [
+        {
+          "name": "Dummy 1000W Hub Motor Kit (d-motor-01)",
+          "sku": "d-motor-01",
+          "price": "₹4,999",
+          "image": "https://lh3.googleusercontent.com/d/1rCiZ_eoL5wsbfauRkI-rFLdE6U--3r-T",
+          "url": ""
+        },
+        {
+          "name": "Dummy Motor Contactor & Throttle Kit (d-motor-02)",
+          "sku": "d-motor-02",
+          "price": "₹1,299",
+          "image": "https://lh3.googleusercontent.com/d/1DxcySYIEZjfcX7oHlLW2BAP9G9N7VtIk",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "name": "EV CELL & HOLDER",
+      "slug": "ev-cell-holder",
+      "url": "",
+      "image": "",
+      "products": [
+        {
+          "name": "Dummy 18650 Cell Holder Pack (d-cell-01)",
+          "sku": "d-cell-01",
+          "price": "₹349",
+          "image": "https://lh3.googleusercontent.com/d/1WWy8XpzUfsQ-GOkuPjv9-5xI3tnGXMLQ",
+          "url": ""
+        },
+        {
+          "name": "Dummy 21700 Cell Spacer Kit (d-cell-02)",
+          "sku": "d-cell-02",
+          "price": "₹299",
+          "image": "https://lh3.googleusercontent.com/d/1Dkzfvzd5gw4SkL2dWUQnFx6vmmieupB3",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "name": "EV Scooter BMS",
+      "slug": "ev-scooter-bms",
+      "url": "",
+      "image": "",
+      "products": [
+        {
+          "name": "Dummy 13S 40A Smart BMS (d-bms-01)",
+          "sku": "d-bms-01",
+          "price": "₹1,899",
+          "image": "https://lh3.googleusercontent.com/d/1LNdXHDqi3gtPRiKE25fN5x8Mb7nQe1-k",
+          "url": ""
+        },
+        {
+          "name": "Dummy 16S 50A BMS with Bluetooth (d-bms-02)",
+          "sku": "d-bms-02",
+          "price": "₹2,799",
+          "image": "https://lh3.googleusercontent.com/d/1kP2-WyCz1eU8NMeFF4v-H7FTqxv76qFz",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "name": "EV Battery Materials & Accessories",
+      "slug": "ev-battery-materials-accessories",
+      "url": "",
+      "image": "",
+      "products": [
+        {
+          "name": "Dummy Nickel Strip Roll 0.15mm (d-mat-01)",
+          "sku": "d-mat-01",
+          "price": "₹499",
+          "image": "https://lh3.googleusercontent.com/d/1Zc2H_dJ3D09t4PEgnPtAcj8pLALaZp_f",
+          "url": ""
+        },
+        {
+          "name": "Dummy Battery Pack Insulation Kit (d-mat-02)",
+          "sku": "d-mat-02",
+          "price": "₹399",
+          "image": "https://lh3.googleusercontent.com/d/1qrT3XojfouiJ8am6CBAun5HJG-ydk8N_",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "name": "EV Cables & Connectors",
+      "slug": "ev-cables-connectors",
+      "url": "",
+      "image": "",
+      "products": [
+        {
+          "name": "Dummy XT90 Connector Pair (d-cable-01)",
+          "sku": "d-cable-01",
+          "price": "₹199",
+          "image": "https://lh3.googleusercontent.com/d/1bzOONZsJoZq8QZD5uL-YoKksWmI2AfhO",
+          "url": ""
+        },
+        {
+          "name": "Dummy 6mm Battery Cable 1m (d-cable-02)",
+          "sku": "d-cable-02",
+          "price": "₹249",
+          "image": "https://lh3.googleusercontent.com/d/1D2sqpYrbnqrCZcm6Wa-iazguKuUvzBxI",
+          "url": ""
+        }
+      ]
+    }
+  ]
+}
