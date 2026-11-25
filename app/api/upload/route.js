@@ -1,4 +1,4 @@
-import imagekit from '@/lib/imagekit';
+import { getImageKit } from '@/lib/imagekit';
 import { requireAdmin } from '@/lib/auth';
 import { ok, err, catchErr } from '@/lib/utils';
 
@@ -13,7 +13,7 @@ export async function POST(req) {
     const buffer = Buffer.from(bytes);
     const base64 = buffer.toString('base64');
 
-    const result = await imagekit.upload({
+    const result = await getImageKit().upload({
       file: base64,
       fileName: file.name || `upload-${Date.now()}`,
       folder: '/sudhaga',
